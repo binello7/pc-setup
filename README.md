@@ -1,1 +1,1 @@
-# ubuntu-setup
+# pc-setup
