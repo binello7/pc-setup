@@ -14,6 +14,9 @@ network={
 }" > $filename
 ```
 ## Setup ssh before first start
-
+```bash
+cd /media/$USER/boot
+touch ssh
+```
 
 ## Install Git
