@@ -12,6 +12,8 @@ network={
     psk="YOUR_PASSWORD"
     key_mgmt=WPA-PSK
 }" > $filename
+```
+## Setup ssh before first start
 
 
 ## Install Git
