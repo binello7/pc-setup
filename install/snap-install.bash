@@ -3,6 +3,7 @@
 snap_pkgs=(
   'code --classic'
   'octave'
+  'vlc'
 )
 
 for ((i=0; i<${#snap_pkgs[@]}; i++))
