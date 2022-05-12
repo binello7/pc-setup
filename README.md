@@ -6,3 +6,4 @@
 * QCAD
 * QGIS
 * Visual Studio Code
+* VLC media player
