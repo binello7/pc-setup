@@ -1,6 +1,7 @@
 # pc-setup
 
 ## Programs
+* Dropbox
 * Git
 * QCAD
 * QGIS
