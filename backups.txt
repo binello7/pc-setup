@@ -1,0 +1,38 @@
+Folders to backup
+-----------------
+- ~/CAD-Drawings/*
+- ~/Calibre Library/*
+- ~/Datasets/*
+- ~/Desktop/*
+- ~/Documents/*
+- ~/Downloads/*
+- ~/Music/*
+- ~/Pictures/*
+- ~/Programming/*
+- ~/Projects/inventory-app/*
+- ~/Public/*
+- ~/Templates/*
+- ~/Videos/*
+
+
+Folders to ignore
+-----------------
+- ~/Dropbox/*
+- ~/opt/*
+- ~/snap/*
+- ~/.cache/*
+- ~/.config/*
+- ~/.dropbox/*
+- ~/.dropbox-dist/*
+- ~/.gnome/*
+- ~/.gnupg/*
+- ~/.grass7/*
+- ~/.ipython/*
+- ~/.local/*
+- ~/.mozilla/*
+- ~/.pki/*
+- ~/.ros/*
+- ~/.ssh/*
+- ~/.thunderbird/*
+- ~/.vscode/*
+- ~/.zoom/*
