@@ -1,9 +1,7 @@
 #!/bin/bash
 
 snap_pkgs=(
-  'atom --classic'
   'code --classic'
-  'freecad'
   'octave'
 )
 

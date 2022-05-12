@@ -1,35 +1,9 @@
 #!/bin/bash
 
 apt_pkgs=(
-  byobu
-  cifs-utils
-  colordiff
-  git-gui
-  kazam
-  libgdal-dev
-  libgdal1-dev
-  libgdal1i
-  libimage-exiftool-perl
-  libspatialindex-dev
-  network-manager-openvpn
-  network-manager-openvpn-gnome
-  network-manager-vpnc
-  network-manager-vpnc-gnome
-  net-tools
   openssh-client
   openssh-server
-  python3-venv
-  qgis
-  qgis-plugin-grass
-  rar
-  r-base
-  shutter
   terminator
-  texlive-font-utils
-  unrar
-  vinagre
-  virtualenv
-  vpnc
   wakeonlan
 )
 
