@@ -1,6 +1,7 @@
 #!/bin/bash
 
 apt_pkgs=(
+  git
   openssh-client
   openssh-server
   terminator
