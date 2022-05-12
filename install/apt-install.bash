@@ -8,12 +8,20 @@ apt_pkgs=(
   wakeonlan
 )
 
+# Check if run as root
+if [ "$EUID" -ne 0 ]
+  then echo "Script has to be run as root"
+  exit
+fi
+
 echo "Update apt-index..."
-sudo apt update
+apt update
+echo ""
 
 for pkg in ${apt_pkgs[@]}
 do
-  sudo apt install -y $pkg
+  apt install -y $pkg
+  echo ""
 done
 
-echo -e "\nInstall of apt-packages finished"
+echo "Install of apt-packages finished"
