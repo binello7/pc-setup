@@ -2,6 +2,7 @@
 
 snap_pkgs=(
   'code --classic'
+  'gimp'
   'octave'
   'vlc'
 )
