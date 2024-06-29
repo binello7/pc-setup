@@ -1,0 +1,6 @@
+192.168.1.119   rusco		    #18:a9:05:1c:eb:1c
+192.168.0.109   pi-en-zuri      #b8-27-eb-40-03-8c
+192.168.1.140   pi-en-meride    
+192.168.0.110   pi-wl-zuri      #b8-27-eb-15-56-d9
+192.168.1.141   pi-wl-meride
+129.132.39.111  deepinsight
